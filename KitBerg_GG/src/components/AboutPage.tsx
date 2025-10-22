@@ -155,7 +155,7 @@ export function AboutPage({ onBack }: AboutPageProps) {
                 <div className="text-yellow-400 mb-1">Graduate Control System Engineer</div>
                 <div className="text-gray-500">IES Works ltd.  | 2024 - Present</div>
                 <div className="text-gray-600 mt-2">
-                  // Helped with software development across serval projects
+                  // Helped with software development across several projects
                 </div>
               </div>
 
