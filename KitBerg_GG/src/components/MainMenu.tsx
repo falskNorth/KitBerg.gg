@@ -23,7 +23,7 @@ const menuItems = [
         id: "clips",
         label: "Clips",
         command: "load_clips()",
-        description: "// Heart-pounding moments of skill, strategy, and sheer luck",
+        description: "// A collection of clips of both my work and skill (issues) at video games",
     },
     {
         id: "projects",
@@ -56,7 +56,7 @@ export function MainMenu({ onNavigate }: MainMenuProps) {
                 >
                     <div className="flex items-center gap-3 mb-2">
                         <Terminal className="w-6 h-6 text-green-500" />
-                        <h1 className="text-3xl text-green-500 glow-text">KitBerg.gg</h1>
+                        <h1 className="text-3xl text-green-500 glow-text">KitBerg.exe</h1>
                     </div>
                     <div className="text-sm text-gray-500">
                         <span className="text-green-600">/** </span>
@@ -74,7 +74,7 @@ export function MainMenu({ onNavigate }: MainMenuProps) {
                 >
                     {/* Window title bar */}
                     <div className="bg-gray-900 border-b border-green-900 px-4 py-2 flex items-center justify-between">
-                        <span className="text-xs text-gray-500">main_menu.js</span>
+                        <span className="text-xs text-gray-500">main_menu</span>
                         <div className="flex items-center gap-1">
                             <button className="w-6 h-6 hover:bg-gray-700 flex items-center justify-center group rounded">
                                 <Minus className="w-3 h-3 text-gray-400 group-hover:text-white" />

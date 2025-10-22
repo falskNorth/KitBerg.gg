@@ -204,7 +204,7 @@ export function ProjectsPage({ onBack }: ProjectsPageProps) {
               <span className="text-gray-400">.</span>
               <span className="text-yellow-400">open</span>
               <span className="text-gray-400">(</span>
-              <span className="text-green-400">"https://github.com/falskNorth"</span>
+              <span className="text-green-400">"github.com/falskNorth"</span>
               <span className="text-gray-400">);</span>
             </div>
             <button className="mt-4 bg-green-900/20 hover:bg-green-900/40 border border-green-700 px-6 py-2 text-sm transition-colors inline-flex items-center gap-2">

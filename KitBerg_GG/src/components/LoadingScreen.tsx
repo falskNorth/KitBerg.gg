@@ -94,7 +94,7 @@ export function LoadingScreen({
                         >
                             <div className="flex items-center gap-3 mb-2">
                                 <Terminal className="w-6 h-6 text-green-500" />
-                                <h1 className="text-3xl text-green-500 glow-text">IsBerg.gg</h1>
+                                <h1 className="text-3xl text-green-500 glow-text">KitBerg.exe</h1>
                             </div>
                             <div className="text-sm text-gray-500">
                                 <span className="text-green-600">/** </span>
@@ -148,7 +148,7 @@ export function LoadingScreen({
                                         <div className="ml-4 space-y-1">
                                             {/* Comment */}
                                             <div className="text-gray-600">
-                                                // Initialize IsBerg.gg system
+                                                // Initialize KitBerg.exe system
                                             </div>
 
                                             {/* Progress variable
@@ -332,11 +332,11 @@ export function LoadingScreen({
                                 <div className="p-4 min-h-[180px] max-h-[180px] overflow-y-auto font-mono text-sm space-y-2">
                                     {/* Terminal prompt */}
                                     <div className="text-green-500">
-                                        <span className="text-green-400">user@isberg</span>
+                                        <span className="text-green-400">user@Admin</span>
                                         <span className="text-gray-500">:</span>
                                         <span className="text-blue-400">~</span>
                                         <span className="text-gray-500">$</span>
-                                        <span className="text-gray-400 ml-2">node loading.js</span>
+                                        <span className="text-gray-400 ml-2">KitBerg.exe</span>
                                     </div>
 
                                     {/* Loading messages output */}
@@ -413,7 +413,7 @@ export function LoadingScreen({
                                                 <span className="glow-text">✓ success</span>
                                             </div>
                                             <div className="text-gray-500 mt-1 flex">
-                                                <span className="text-green-400">user@isberg</span>
+                                                <span className="text-green-400">user@Admin</span>
                                                 <span className="text-gray-500">:</span>
                                                 <span className="text-blue-400">~</span>
                                                 <span className="text-gray-500">$</span>
